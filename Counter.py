@@ -3,7 +3,7 @@ import json
 import time
 import os
 
-API_KEY = 'AIzaSyDK1l9CuGifoeliJOj2UiyhMhIUKueO0Lw' # enter your own api key
+API_KEY = '' # enter your own api key
 CHANNEL_ID = 'UCt7iVnJwjBsof8IPLJHCTgQ' # enter the channel id for which subscribers are to be monitored
 
 print("Live Subscriber Count: ")
